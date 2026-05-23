@@ -1,0 +1,1616 @@
+- generic [ref=e1]:
+  - banner:
+    - navigation [ref=e5]:
+      - generic [ref=e7]:
+        - generic [ref=e8]:
+          - generic [ref=e9]:
+            - button "Open Menu Icon" [ref=e10]:
+              - img [ref=e11]
+            - link "CNN logo" [ref=e14] [cursor=pointer]:
+              - /url: https://edition.cnn.com
+              - img [ref=e16]
+            - navigation [ref=e19]:
+              - generic [ref=e20]:
+                - link "US" [ref=e22] [cursor=pointer]:
+                  - /url: https://edition.cnn.com/us
+                - link "World" [ref=e24] [cursor=pointer]:
+                  - /url: https://edition.cnn.com/world
+                - link "Politics" [ref=e26] [cursor=pointer]:
+                  - /url: https://edition.cnn.com/politics
+                - link "Business" [ref=e28] [cursor=pointer]:
+                  - /url: https://edition.cnn.com/business
+                - link "Health" [ref=e30] [cursor=pointer]:
+                  - /url: https://edition.cnn.com/health
+                - generic [ref=e32] [cursor=pointer]: More
+          - generic [ref=e33]:
+            - link "Watch" [ref=e34] [cursor=pointer]:
+              - /url: https://edition.cnn.com/watch
+            - link "Listen" [ref=e35] [cursor=pointer]:
+              - /url: https://edition.cnn.com/audio
+            - button "Search Icon" [ref=e36]:
+              - img [ref=e37]
+            - navigation "User Account Nav" [ref=e40]:
+              - link "User Account Log In Button" [ref=e42] [cursor=pointer]: Sign in
+        - separator [ref=e43]
+  - generic [ref=e44]:
+    - main [ref=e47]:
+      - generic [ref=e51]:
+        - list [ref=e58]:
+          - listitem [ref=e59]:
+            - link "Epstein investigation |" [ref=e60] [cursor=pointer]:
+              - /url: /2026/05/21/politics/sarah-kellen-epstein-testimony
+              - generic [ref=e61]:
+                - generic [ref=e62]: Epstein investigation
+                - text: "|"
+          - listitem [ref=e63]:
+            - link "Myanmar’s farmers crushed by Iran war |" [ref=e64] [cursor=pointer]:
+              - /url: /2026/05/22/world/video/this-war-is-choking-us-myanmars-farmers-crushed-by-prolonged-war-in-iran-hanako-montgomery-hnk-digvid
+              - generic [ref=e65]:
+                - generic [ref=e66]: Myanmar’s farmers crushed by Iran war
+                - text: "|"
+          - listitem [ref=e67]:
+            - link "Cockroach as a symbol of dissent |" [ref=e68] [cursor=pointer]:
+              - /url: /2026/05/22/india/india-cockroach-janta-party-gen-z-intl-hnk
+              - generic [ref=e69]:
+                - generic [ref=e70]: Cockroach as a symbol of dissent
+                - text: "|"
+          - listitem [ref=e71]:
+            - link "Pep Guardiola |" [ref=e72] [cursor=pointer]:
+              - /url: /2026/05/22/sport/pep-guardiola-manchester-city-leaves
+              - generic [ref=e73]:
+                - generic [ref=e74]: Pep Guardiola
+                - text: "|"
+          - listitem [ref=e75]:
+            - link "Cruise ships sailing to phantom destinations |" [ref=e76] [cursor=pointer]:
+              - /url: /travel/visiting-null-island-cruises
+              - generic [ref=e77]:
+                - generic [ref=e78]: Cruise ships sailing to phantom destinations
+                - text: "|"
+          - listitem [ref=e79]:
+            - link "SpaceX" [ref=e80] [cursor=pointer]:
+              - /url: /2026/05/21/science/spacex-starship-version-3-debut-stakes
+              - generic [ref=e82]: SpaceX
+        - generic [ref=e86]:
+          - generic [ref=e89]:
+            - list [ref=e93]:
+              - listitem [ref=e94]:
+                - link "Donald Trump Jr. and his partner Bettina Anderson arrive for a Medal of Freedom ceremony for Turning Point USA founder Charlie Kirk, in the Rose Garden of the White House in Washington, DC, in October 2025." [ref=e95] [cursor=pointer]:
+                  - /url: /2026/05/21/politics/donald-trump-jr-bettina-anderson-wedding
+                  - generic [ref=e97]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Donald Trump Jr. and his partner Bettina Anderson arrive for a Medal of Freedom ceremony for Turning Point USA founder Charlie Kirk, in the Rose Garden of the White House in Washington, DC, in October 2025."
+                - link "Donald Trump Jr.’s wedding will be on a small island in the Bahamas — without his father present, sources say" [ref=e98] [cursor=pointer]:
+                  - /url: /2026/05/21/politics/donald-trump-jr-bettina-anderson-wedding
+                  - generic [ref=e100]: Donald Trump Jr.’s wedding will be on a small island in the Bahamas — without his father present, sources say
+            - list [ref=e104]:
+              - listitem [ref=e105]:
+                - link "Jeffrey Epstein's former assistant Sarah Kellen arrives to testify at a closed-door interview with the House Oversight Committee on Capitol Hill on May 21 in Washington, DC." [ref=e106] [cursor=pointer]:
+                  - /url: /2026/05/21/politics/sarah-kellen-epstein-testimony
+                  - generic [ref=e108]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Jeffrey Epstein's former assistant Sarah Kellen arrives to testify at a closed-door interview with the House Oversight Committee on Capitol Hill on May 21 in Washington, DC."
+                - link "Epstein’s longtime assistant accused three previously unknown abusers connected to him, Oversight chair says" [ref=e109] [cursor=pointer]:
+                  - /url: /2026/05/21/politics/sarah-kellen-epstein-testimony
+                  - generic [ref=e111]: Epstein’s longtime assistant accused three previously unknown abusers connected to him, Oversight chair says
+            - list [ref=e115]:
+              - listitem [ref=e116]:
+                - 'link "US President Donald Trump speaks to members of the media on the South Lawn of the White House before boarding Marine One in Washington, DC, US, on Tuesday, May 12, 2026. US President Donald Trump and Chinese counterpart Xi Jinping will meet Thursday morning in Beijing, according to the White House, for a high-stakes summit that will be dominated by discussions on trade and the war in Iran. Photographer: Bonnie Cash/UPI/Bloomberg via Getty Images Analysis" [ref=e117] [cursor=pointer]':
+                  - /url: /2026/05/22/politics/trump-irs-weaponization-fund-ballroom-analysis
+                  - generic [ref=e119]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - 'img "US President Donald Trump speaks to members of the media on the South Lawn of the White House before boarding Marine One in Washington, DC, US, on Tuesday, May 12, 2026. US President Donald Trump and Chinese counterpart Xi Jinping will meet Thursday morning in Beijing, according to the White House, for a high-stakes summit that will be dominated by discussions on trade and the war in Iran. Photographer: Bonnie Cash/UPI/Bloomberg via Getty Images"'
+                      - generic:
+                        - generic:
+                          - generic: Analysis
+                - 'link "Trump’s second term is increasingly about 1 thing: Trump" [ref=e120] [cursor=pointer]':
+                  - /url: /2026/05/22/politics/trump-irs-weaponization-fund-ballroom-analysis
+                  - generic [ref=e122]: ": Trump’s second term is increasingly about 1 thing: Trump"
+          - generic [ref=e125]:
+            - generic [ref=e126]:
+              - link "Tulsi Gabbard is resigning as director of national intelligence" [ref=e128] [cursor=pointer]:
+                - /url: /2026/05/22/politics/tulsi-gabbard-resigns
+                - heading "Tulsi Gabbard is resigning as director of national intelligence" [level=2] [ref=e129]
+              - generic [ref=e133]:
+                - link "Director of National Intelligence Tulsi Gabbard looks on during a press briefing at the White House on July 23, 2025." [ref=e134] [cursor=pointer]:
+                  - /url: /2026/05/22/politics/tulsi-gabbard-resigns
+                  - generic [ref=e136]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Director of National Intelligence Tulsi Gabbard looks on during a press briefing at the White House on July 23, 2025."
+                - link "Her tenure was riddled with contradictory and confusing messaging, particularly on the US war with Iran" [ref=e137] [cursor=pointer]:
+                  - /url: /2026/05/22/politics/tulsi-gabbard-resigns
+                  - generic [ref=e139]: Her tenure was riddled with contradictory and confusing messaging, particularly on the US war with Iran
+            - generic [ref=e140]:
+              - heading "War in Iran" [level=2] [ref=e142]
+              - list [ref=e145]:
+                - listitem [ref=e146]:
+                  - link "US soldiers take part in the inauguration ceremony, by transforming the Area Support Group Poland into the permanent US Army Garrison Poland, at Camp Kosciuszko in Poznan, on March 21, 2023." [ref=e147] [cursor=pointer]:
+                    - /url: /2026/05/22/politics/trump-poland-troops-nato-ukraine-hnk
+                    - generic [ref=e149]:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img "US soldiers take part in the inauguration ceremony, by transforming the Area Support Group Poland into the permanent US Army Garrison Poland, at Camp Kosciuszko in Poznan, on March 21, 2023."
+                  - link "Trump says he’s sending 5,000 troops to Poland, deepening confusion over US military deployments to Europe" [ref=e150] [cursor=pointer]:
+                    - /url: /2026/05/22/politics/trump-poland-troops-nato-ukraine-hnk
+                    - generic [ref=e152]: Trump says he’s sending 5,000 troops to Poland, deepening confusion over US military deployments to Europe
+                - listitem [ref=e153]:
+                  - link "<p>Myanmar’s farmers need fuel and fertilizer to nourish their crops, but ships carrying that lifeline are trapped 2,000 miles away in the Strait of Hormuz. CNN’s Hanako Montgomery reports on how that stranglehold is deepening a food crisis already pushing 12.5 million people in Myanmar closer to famine. </p>" [ref=e154] [cursor=pointer]:
+                    - /url: /2026/05/22/world/video/this-war-is-choking-us-myanmars-farmers-crushed-by-prolonged-war-in-iran-hanako-montgomery-hnk-digvid
+                    - generic [ref=e156]:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img "<p>Myanmar’s farmers need fuel and fertilizer to nourish their crops, but ships carrying that lifeline are trapped 2,000 miles away in the Strait of Hormuz. CNN’s Hanako Montgomery reports on how that stranglehold is deepening a food crisis already pushing 12.5 million people in Myanmar closer to famine. </p>"
+                  - link "‘This war is choking us,’ Myanmar’s farmers crushed by prolonged Iran war 2:27" [ref=e157] [cursor=pointer]:
+                    - /url: /2026/05/22/world/video/this-war-is-choking-us-myanmars-farmers-crushed-by-prolonged-war-in-iran-hanako-montgomery-hnk-digvid
+                    - generic [ref=e159]:
+                      - text: ‘This war is choking us,’ Myanmar’s farmers crushed by prolonged Iran war
+                      - generic [ref=e160]: 2:27
+                - listitem [ref=e162]:
+                  - link "The Iranian national flag flies atop a pole at Bam-e Tehran in Tehran, Iran on October 24, 2025." [ref=e163] [cursor=pointer]:
+                    - /url: /2026/05/22/politics/iran-hackers-airlines-oil-gas-companies
+                    - generic [ref=e165]:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img "The Iranian national flag flies atop a pole at Bam-e Tehran in Tehran, Iran on October 24, 2025."
+                  - link "Iranian hackers are targeting aviation, oil and gas companies in espionage scheme, researchers say" [ref=e166] [cursor=pointer]:
+                    - /url: /2026/05/22/politics/iran-hackers-airlines-oil-gas-companies
+                    - generic [ref=e168]: Iranian hackers are targeting aviation, oil and gas companies in espionage scheme, researchers say
+          - generic [ref=e171]:
+            - list [ref=e175]:
+              - listitem [ref=e176]:
+                - generic [ref=e189]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - img
+                - link "Catch up on today’s global news" [ref=e190] [cursor=pointer]:
+                  - /url: /videos/fast/cnni-fast
+                  - generic [ref=e192]: Catch up on today’s global news
+            - list [ref=e196]:
+              - listitem [ref=e197]:
+                - link "20240417_164609.jpg" [ref=e198] [cursor=pointer]:
+                  - /url: /travel/visiting-null-island-cruises
+                  - generic [ref=e200]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "20240417_164609.jpg"
+                - link "Why cruise ships are sailing to a phantom destination that doesn’t appear on any map" [ref=e201] [cursor=pointer]:
+                  - /url: /travel/visiting-null-island-cruises
+                  - generic [ref=e203]: Why cruise ships are sailing to a phantom destination that doesn’t appear on any map
+              - listitem [ref=e204]:
+                - link "CNN_WhyWeDream_DigitalSpec_1440x810_MG_TextlessBackgroundImages_Desktop_v1.png" [ref=e205] [cursor=pointer]:
+                  - /url: /2026/05/21/us/video/why-we-dream-trailer
+                  - generic [ref=e207]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "CNN_WhyWeDream_DigitalSpec_1440x810_MG_TextlessBackgroundImages_Desktop_v1.png"
+                - link "Watch the heartfelt moment WWII vets were brought back to Normandy 1:31" [ref=e208] [cursor=pointer]:
+                  - /url: /2026/05/21/us/video/why-we-dream-trailer
+                  - generic [ref=e210]:
+                    - text: Watch the heartfelt moment WWII vets were brought back to Normandy
+                    - generic [ref=e211]: 1:31
+              - listitem [ref=e213]:
+                - link "Stephen Colbert hosts the final episode of \"The Late Show\" on Thursday." [ref=e214] [cursor=pointer]:
+                  - /url: /2026/05/22/media/stephen-colbert-last-late-show-hnk
+                  - generic [ref=e216]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Stephen Colbert hosts the final episode of \"The Late Show\" on Thursday."
+                - link "Stephen Colbert’s ‘Late Show’ bids farewell in final broadcast on CBS" [ref=e217] [cursor=pointer]:
+                  - /url: /2026/05/22/media/stephen-colbert-last-late-show-hnk
+                  - generic [ref=e219]: Stephen Colbert’s ‘Late Show’ bids farewell in final broadcast on CBS
+              - listitem [ref=e220]:
+                - link "119809_ColbertBeatles vrtc thumb cln.png" [ref=e221] [cursor=pointer]:
+                  - /url: /2026/05/22/entertainment/video/paul-mccartney-stephen-colbert-hello-goodbye-beatles-vrtc
+                  - generic [ref=e223]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "119809_ColbertBeatles vrtc thumb cln.png"
+                - link "Paul McCartney joins Colbert for full-circle moment as final guest 1:03" [ref=e224] [cursor=pointer]:
+                  - /url: /2026/05/22/entertainment/video/paul-mccartney-stephen-colbert-hello-goodbye-beatles-vrtc
+                  - generic [ref=e226]:
+                    - text: Paul McCartney joins Colbert for full-circle moment as final guest
+                    - generic [ref=e227]: 1:03
+        - generic [ref=e233]:
+          - generic [ref=e237]:
+            - heading "More top stories" [level=2] [ref=e239]
+            - list [ref=e242]:
+              - listitem [ref=e243]:
+                - link "Kilmar Abrego, the migrant whose wrongful deportation to El Salvador made him a symbol of U.S. President Donald Trump's aggressive immigration policies, walks to the car, after appearing for a check-in at the ICE Baltimore field office, a day after his release from criminal custody in Pennsylvania, in Baltimore, Maryland, on December 12, 2025. Breaking News" [ref=e244] [cursor=pointer]:
+                  - /url: /2026/05/22/politics/judge-dismisses-charges-against-kilmar-abrego-garcia
+                  - generic [ref=e246]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Kilmar Abrego, the migrant whose wrongful deportation to El Salvador made him a symbol of U.S. President Donald Trump's aggressive immigration policies, walks to the car, after appearing for a check-in at the ICE Baltimore field office, a day after his release from criminal custody in Pennsylvania, in Baltimore, Maryland, on December 12, 2025."
+                      - generic:
+                        - generic:
+                          - generic: Breaking News
+                - link "Judge dismisses charges against Kilmar Abrego Garcia, saying Todd Blanche spurred a ‘tainted investigation’" [ref=e247] [cursor=pointer]:
+                  - /url: /2026/05/22/politics/judge-dismisses-charges-against-kilmar-abrego-garcia
+                  - generic [ref=e249]: ": Judge dismisses charges against Kilmar Abrego Garcia, saying Todd Blanche spurred a ‘tainted investigation’"
+              - listitem [ref=e250]:
+                - link "Andrew Mountbatten-Windsor investigation could examine sexual misconduct allegations" [ref=e251] [cursor=pointer]:
+                  - /url: /2026/05/22/uk/andrew-mountbatten-windsor-intl-hnk
+                  - generic [ref=e253]: Andrew Mountbatten-Windsor investigation could examine sexual misconduct allegations
+              - listitem [ref=e254]:
+                - link "Trump’s ‘Anti-Weaponization Fund’ hit with another legal challenge" [ref=e255] [cursor=pointer]:
+                  - /url: /2026/05/22/politics/trumps-anti-weaponization-fund-hit-with-another-legal-challenge
+                  - generic [ref=e257]: Trump’s ‘Anti-Weaponization Fund’ hit with another legal challenge
+              - listitem [ref=e258]:
+                - link "A PDF let the internet hear the final words in the cockpit of a UPS plane as it crashed. The NTSB now wants it taken down" [ref=e259] [cursor=pointer]:
+                  - /url: /2026/05/22/us/plane-crash-audio
+                  - generic [ref=e261]: A PDF let the internet hear the final words in the cockpit of a UPS plane as it crashed. The NTSB now wants it taken down
+              - listitem [ref=e262]:
+                - link "Pentagon releases new UFO files 0:20" [ref=e263] [cursor=pointer]:
+                  - /url: /2026/05/22/us/video/pentagon-releases-new-batch-of-ufo-files-digvid-vrtc
+                  - generic [ref=e265]:
+                    - text: Pentagon releases new UFO files
+                    - generic [ref=e266]: 0:20
+              - listitem [ref=e268]:
+                - link "India’s Gen Z have flipped the lowly cockroach into a symbol of defiance" [ref=e269] [cursor=pointer]:
+                  - /url: /2026/05/22/india/india-cockroach-janta-party-gen-z-intl-hnk
+                  - generic [ref=e271]: India’s Gen Z have flipped the lowly cockroach into a symbol of defiance
+              - listitem [ref=e272]:
+                - link "Australian tourist killed falling into ravine on Peru’s Inca Trail" [ref=e273] [cursor=pointer]:
+                  - /url: /2026/05/22/americas/tourist-machu-picchu-fall-scli-intl
+                  - generic [ref=e275]: Australian tourist killed falling into ravine on Peru’s Inca Trail
+          - generic [ref=e278]:
+            - generic [ref=e279]:
+              - heading "Ebola Outbreak" [level=2] [ref=e281]
+              - generic [ref=e285]:
+                - link "Red Cross workers carry the coffin of a person who died of Ebola at a health center in Rwampara, Congo, on Wednesday, May 20." [ref=e286] [cursor=pointer]:
+                  - /url: /2026/05/22/africa/ebola-us-aid-cuts-drc-uganda-intl
+                  - generic [ref=e288]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Red Cross workers carry the coffin of a person who died of Ebola at a health center in Rwampara, Congo, on Wednesday, May 20."
+                - link "Ebola outbreak demonstrates the real costs of US funding cuts, aid workers say" [ref=e289] [cursor=pointer]:
+                  - /url: /2026/05/22/africa/ebola-us-aid-cuts-drc-uganda-intl
+                  - generic [ref=e291]: Ebola outbreak demonstrates the real costs of US funding cuts, aid workers say
+            - list [ref=e295]:
+              - listitem [ref=e296]:
+                - link "20260520-ebola-tracker.jpg" [ref=e297] [cursor=pointer]:
+                  - /url: /health/maps-ebola-charts-vis
+                  - generic [ref=e299]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "20260520-ebola-tracker.jpg"
+                - link "Visualizing the Ebola outbreak in maps and charts" [ref=e300] [cursor=pointer]:
+                  - /url: /health/maps-ebola-charts-vis
+                  - generic [ref=e302]: Visualizing the Ebola outbreak in maps and charts
+              - listitem [ref=e303]:
+                - link "119793_SanjayEbolaTHUMB.jpg" [ref=e304] [cursor=pointer]:
+                  - /url: /2026/05/21/health/video/ebola-virus-uganda-how-it-spreads-drc-health-digvid-vrtc
+                  - generic [ref=e306]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "119793_SanjayEbolaTHUMB.jpg"
+                - link "How contagious is Ebola? 2:41" [ref=e307] [cursor=pointer]:
+                  - /url: /2026/05/21/health/video/ebola-virus-uganda-how-it-spreads-drc-health-digvid-vrtc
+                  - generic [ref=e309]:
+                    - text: How contagious is Ebola?
+                    - generic [ref=e310]: 2:41
+          - generic [ref=e317]:
+            - heading "Space X" [level=2] [ref=e319]
+            - list [ref=e322]:
+              - listitem [ref=e323]:
+                - link "The SpaceX Starship spacecraft sits atop the Super Heavy Booster as preparations continue for the 12th test flight of the Starship spacecraft in Starbase, Texas, on Wednesday." [ref=e324] [cursor=pointer]:
+                  - /url: /2026/05/21/science/spacex-starship-version-3-debut-stakes
+                  - generic [ref=e326]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "The SpaceX Starship spacecraft sits atop the Super Heavy Booster as preparations continue for the 12th test flight of the Starship spacecraft in Starbase, Texas, on Wednesday."
+                - link "The most powerful rocket ever built is now even bigger and more powerful. But will it work?" [ref=e327] [cursor=pointer]:
+                  - /url: /2026/05/21/science/spacex-starship-version-3-debut-stakes
+                  - generic [ref=e329]: The most powerful rocket ever built is now even bigger and more powerful. But will it work?
+              - listitem [ref=e330]:
+                - link "Workers help prepare SpaceX's mega rocket Starship for a test flight from Starbase, Texas, Wednesday, May 20, 2026. (AP Photo/Eric Gay)" [ref=e331] [cursor=pointer]:
+                  - /url: /2026/05/21/business/spacex-ipo-prospectus-strangest-things
+                  - generic [ref=e333]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Workers help prepare SpaceX's mega rocket Starship for a test flight from Starbase, Texas, Wednesday, May 20, 2026. (AP Photo/Eric Gay)"
+                - 'link "Analysis : The 5 strangest things about SpaceX’s IPO prospectus" [ref=e334] [cursor=pointer]':
+                  - /url: /2026/05/21/business/spacex-ipo-prospectus-strangest-things
+                  - generic [ref=e336]:
+                    - generic [ref=e337]: "Analysis :"
+                    - text: The 5 strangest things about SpaceX’s IPO prospectus
+        - generic [ref=e342]:
+          - generic [ref=e346]:
+            - heading "Sport" [level=2] [ref=e348]
+            - list [ref=e351]:
+              - listitem [ref=e352]:
+                - link "Kyle Busch speaks to the media during Media Day for the NASCAR Cup Series Daytona 500 at Daytona International Speedway in February. Breaking News Patrick McDermott/Getty Images" [ref=e353] [cursor=pointer]:
+                  - /url: /2026/05/22/sport/kyle-busch-death
+                  - generic [ref=e355]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Kyle Busch speaks to the media during Media Day for the NASCAR Cup Series Daytona 500 at Daytona International Speedway in February."
+                      - generic:
+                        - generic:
+                          - generic: Breaking News
+                      - generic:
+                        - generic: Patrick McDermott/Getty Images
+                - link "Kyle Busch needed an ambulance the day before his death due to shortness of breath and coughing up blood, 911 call shows" [ref=e356] [cursor=pointer]:
+                  - /url: /2026/05/22/sport/kyle-busch-death
+                  - generic [ref=e358]: ": Kyle Busch needed an ambulance the day before his death due to shortness of breath and coughing up blood, 911 call shows"
+          - list [ref=e365]:
+            - listitem [ref=e366]:
+              - 'link "Sidemen FC VS YouTube All Stars charity match. EDITORIAL USE ONLY Sidemen''s Vikkstar (left) scores a goal during the Sidemen FC VS YouTube All Stars charity match at Charlton Athletic FC''s The Valley, London. Picture date: Saturday September 24, 2022. The match which was first staged in 2016 has since become an annual event, halted by Covid-19 in 2020, this is the first time the match will take place since 2019. The British YouTube supergroup have sold out the 27,000-seater venue, so no tickets are available but those who missed out were able to watch online. Money raised during the match will be donated to charities such as Calm and Teenage Cancer trust. Photo credit should read: Kieran Cleeves/PA Wire URN:68988778 (Press Association via AP Images)" [ref=e367] [cursor=pointer]':
+                - /url: /2026/05/22/sport/influencers-sports-playbook-future
+                - generic [ref=e369]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - 'img "Sidemen FC VS YouTube All Stars charity match. EDITORIAL USE ONLY Sidemen''s Vikkstar (left) scores a goal during the Sidemen FC VS YouTube All Stars charity match at Charlton Athletic FC''s The Valley, London. Picture date: Saturday September 24, 2022. The match which was first staged in 2016 has since become an annual event, halted by Covid-19 in 2020, this is the first time the match will take place since 2019. The British YouTube supergroup have sold out the 27,000-seater venue, so no tickets are available but those who missed out were able to watch online. Money raised during the match will be donated to charities such as Calm and Teenage Cancer trust. Photo credit should read: Kieran Cleeves/PA Wire URN:68988778 (Press Association via AP Images)"'
+              - link "How influencer-led events like The Sidemen Charity Match are rewriting the sports playbook" [ref=e370] [cursor=pointer]:
+                - /url: /2026/05/22/sport/influencers-sports-playbook-future
+                - generic [ref=e372]: How influencer-led events like The Sidemen Charity Match are rewriting the sports playbook
+            - listitem [ref=e373]:
+              - link "Manchester City's Spanish manager Pep Guardiola waves to the fans following the English Premier League football match between Manchester City and Crystal Palace at the Etihad Stadium in Manchester, north west England, on May 13, 2026. (Photo by Darren Staples / AFP via Getty Images) / RESTRICTED TO EDITORIAL USE. No use with unauthorized audio, video, data, fixture lists, club/league logos or 'live' services. Online in-match use limited to 120 images. An additional 40 images may be used in extra time. No video emulation. Social media in-match use limited to 120 images. An additional 40 images may be used in extra time. No use in betting publications, games or single club/league/player publications. /" [ref=e374] [cursor=pointer]:
+                - /url: /2026/05/22/sport/pep-guardiola-manchester-city-leaves
+                - generic [ref=e376]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Manchester City's Spanish manager Pep Guardiola waves to the fans following the English Premier League football match between Manchester City and Crystal Palace at the Etihad Stadium in Manchester, north west England, on May 13, 2026. (Photo by Darren Staples / AFP via Getty Images) / RESTRICTED TO EDITORIAL USE. No use with unauthorized audio, video, data, fixture lists, club/league logos or 'live' services. Online in-match use limited to 120 images. An additional 40 images may be used in extra time. No video emulation. Social media in-match use limited to 120 images. An additional 40 images may be used in extra time. No use in betting publications, games or single club/league/player publications. /"
+              - link "Era-defining manager Pep Guardiola will leave Manchester City after 10 incredible years" [ref=e377] [cursor=pointer]:
+                - /url: /2026/05/22/sport/pep-guardiola-manchester-city-leaves
+                - generic [ref=e379]: Era-defining manager Pep Guardiola will leave Manchester City after 10 incredible years
+        - generic [ref=e384]:
+          - generic [ref=e388]:
+            - heading "US politics" [level=2] [ref=e390]
+            - list [ref=e393]:
+              - listitem [ref=e394]:
+                - link "TOPSHOT - US President Donald Trump speaks to reporters before boarding Air Force One at Joint Base Andrews, Maryland on May 20, 2026. Trump is heading to New London, Connecticut, to deliver the commencement address to the US Coast Guard Academy's 2026 graduating class. (Photo by Kent NISHIMURA / AFP via Getty Images) Analysis" [ref=e395] [cursor=pointer]:
+                  - /url: /2026/05/22/politics/republicans-congress-trump-clash
+                  - generic [ref=e397]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "TOPSHOT - US President Donald Trump speaks to reporters before boarding Air Force One at Joint Base Andrews, Maryland on May 20, 2026. Trump is heading to New London, Connecticut, to deliver the commencement address to the US Coast Guard Academy's 2026 graduating class. (Photo by Kent NISHIMURA / AFP via Getty Images)"
+                      - generic:
+                        - generic:
+                          - generic: Analysis
+                - link "Trump’s inevitable clash with congressional Republicans has arrived. What happens next?" [ref=e398] [cursor=pointer]:
+                  - /url: /2026/05/22/politics/republicans-congress-trump-clash
+                  - generic [ref=e400]: ": Trump’s inevitable clash with congressional Republicans has arrived. What happens next?"
+              - listitem [ref=e401]:
+                - link "Supreme Court Justice Clarence Thomas swears in new Federal Reserve Chair Kevin Warsh next to his wife Jane Lauder, in the East Room of the White House in Washington, DC, on May 22, 2026." [ref=e402] [cursor=pointer]:
+                  - /url: /2026/05/22/economy/kevin-warsh-sworn-in-fed-chair
+                  - generic [ref=e404]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Supreme Court Justice Clarence Thomas swears in new Federal Reserve Chair Kevin Warsh next to his wife Jane Lauder, in the East Room of the White House in Washington, DC, on May 22, 2026."
+                - link "Kevin Warsh sworn in as Fed chair at pivotal moment for US economy" [ref=e405] [cursor=pointer]:
+                  - /url: /2026/05/22/economy/kevin-warsh-sworn-in-fed-chair
+                  - generic [ref=e407]: Kevin Warsh sworn in as Fed chair at pivotal moment for US economy
+              - listitem [ref=e408]:
+                - link "Francesca Hong speaks during a gubernatorial campaign stop in Ashwaubenon, Wisconsin, on September 25, 2025." [ref=e409] [cursor=pointer]:
+                  - /url: /2026/05/22/politics/kfile-francesca-hong-wisconsin-governor-race-defund-police
+                  - generic [ref=e411]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Francesca Hong speaks during a gubernatorial campaign stop in Ashwaubenon, Wisconsin, on September 25, 2025."
+                - 'link "‘Defund then abolish’: A leading Democrat in Wisconsin governor’s race urged abolishing police" [ref=e412] [cursor=pointer]':
+                  - /url: /2026/05/22/politics/kfile-francesca-hong-wisconsin-governor-race-defund-police
+                  - generic [ref=e414]: "‘Defund then abolish’: A leading Democrat in Wisconsin governor’s race urged abolishing police"
+          - generic [ref=e418]:
+            - heading "Media & Entertainment" [level=2] [ref=e420]
+            - list [ref=e423]:
+              - listitem [ref=e424]:
+                - link "Screenshot 2026-05-16 at 11.42.54 AM.png" [ref=e425] [cursor=pointer]:
+                  - /url: /2026/05/22/media/byron-allen-stephen-colbert-cbs-late-show
+                  - generic [ref=e427]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Screenshot 2026-05-16 at 11.42.54 AM.png"
+                - link "Meet Byron Allen, the comic-turned-media mogul who’s taking over CBS late night" [ref=e428] [cursor=pointer]:
+                  - /url: /2026/05/22/media/byron-allen-stephen-colbert-cbs-late-show
+                  - generic [ref=e430]: Meet Byron Allen, the comic-turned-media mogul who’s taking over CBS late night
+              - listitem [ref=e431]:
+                - link "RenameThisVertical Copy 02.00_00_09_04.Still001.jpg" [ref=e432] [cursor=pointer]:
+                  - /url: /2026/05/22/entertainment/video/nicki-minaj-spacex-starship-launch-hnk-vrtc-digvid
+                  - generic [ref=e434]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "RenameThisVertical Copy 02.00_00_09_04.Still001.jpg"
+                - link "Nicki Minaj makes surprise appearance at SpaceX’s Starship launch attempt 0:58" [ref=e435] [cursor=pointer]:
+                  - /url: /2026/05/22/entertainment/video/nicki-minaj-spacex-starship-launch-hnk-vrtc-digvid
+                  - generic [ref=e437]:
+                    - text: Nicki Minaj makes surprise appearance at SpaceX’s Starship launch attempt
+                    - generic [ref=e438]: 0:58
+              - listitem [ref=e440]:
+                - link "King Charles III speaks during a reception in the garden of Government House in Hamilton, Bermuda, on May 1." [ref=e441] [cursor=pointer]:
+                  - /url: /2026/05/21/uk/radio-caroline-king-charles-death-apology-intl-scli
+                  - generic [ref=e443]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "King Charles III speaks during a reception in the garden of Government House in Hamilton, Bermuda, on May 1."
+                - link "Radio station apologizes after accidentally announcing death of King Charles" [ref=e444] [cursor=pointer]:
+                  - /url: /2026/05/21/uk/radio-caroline-king-charles-death-apology-intl-scli
+                  - generic [ref=e446]: Radio station apologizes after accidentally announcing death of King Charles
+        - generic [ref=e453]:
+          - generic [ref=e457]:
+            - heading "Business and economy" [level=2] [ref=e459]
+            - list [ref=e462]:
+              - listitem [ref=e463]:
+                - link "Goldman Sachs reports AI is reducing US monthly payroll growth by roughly 16,000 jobs." [ref=e464] [cursor=pointer]:
+                  - /url: /2026/05/22/tech/how-to-ai-proof-your-job
+                  - generic [ref=e466]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Goldman Sachs reports AI is reducing US monthly payroll growth by roughly 16,000 jobs."
+                - link "How to AI-proof your job" [ref=e467] [cursor=pointer]:
+                  - /url: /2026/05/22/tech/how-to-ai-proof-your-job
+                  - generic [ref=e469]: How to AI-proof your job
+              - listitem [ref=e470]:
+                - link "Single family homes in a residential neighborhood in San Marcos, Texas, US, on Tuesday, March 12, 2024. The National Association of Realtors is scheduled to release existing homes sales figures on March 21." [ref=e471] [cursor=pointer]:
+                  - /url: /2026/05/22/economy/buyers-sellers-housing-market
+                  - generic [ref=e473]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Single family homes in a residential neighborhood in San Marcos, Texas, US, on Tuesday, March 12, 2024. The National Association of Realtors is scheduled to release existing homes sales figures on March 21."
+                - link "Is it finally a buyer’s market? That depends where you look for a home" [ref=e474] [cursor=pointer]:
+                  - /url: /2026/05/22/economy/buyers-sellers-housing-market
+                  - generic [ref=e476]: Is it finally a buyer’s market? That depends where you look for a home
+          - generic [ref=e480]:
+            - heading "Health & Wellness" [level=2] [ref=e482]
+            - list [ref=e485]:
+              - listitem [ref=e486]:
+                - link "ncphotos-08.jpg" [ref=e487] [cursor=pointer]:
+                  - /url: /2026/05/22/health/aging-in-place-wellness
+                  - generic [ref=e489]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "ncphotos-08.jpg"
+                - link "During a hurricane, Asheville seniors formed a pod that may help them age in place" [ref=e490] [cursor=pointer]:
+                  - /url: /2026/05/22/health/aging-in-place-wellness
+                  - generic [ref=e492]: During a hurricane, Asheville seniors formed a pod that may help them age in place
+              - listitem [ref=e493]:
+                - link "GettyImages-1470234174.jpg" [ref=e494] [cursor=pointer]:
+                  - /url: /2026/05/21/health/mental-disorder-rate-worldwide-study-wellness
+                  - generic [ref=e496]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "GettyImages-1470234174.jpg"
+                - link "Global mental health is in an ‘even more concerning phase,’ scientists say" [ref=e497] [cursor=pointer]:
+                  - /url: /2026/05/21/health/mental-disorder-rate-worldwide-study-wellness
+                  - generic [ref=e499]: Global mental health is in an ‘even more concerning phase,’ scientists say
+          - generic [ref=e503]:
+            - heading "Style" [level=2] [ref=e505]
+            - list [ref=e508]:
+              - listitem [ref=e509]:
+                - link "I-LOVE-BOOSTERS_Still_03_Cropped_Courtesy-of-NEON.jpg" [ref=e510] [cursor=pointer]:
+                  - /url: /2026/05/22/style/i-love-boosters-shirley-kurata-interview
+                  - generic [ref=e512]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "I-LOVE-BOOSTERS_Still_03_Cropped_Courtesy-of-NEON.jpg"
+                - link "In the neon-drenched world of ‘I Love Boosters,’ fashion is for the people" [ref=e513] [cursor=pointer]:
+                  - /url: /2026/05/22/style/i-love-boosters-shirley-kurata-interview
+                  - generic [ref=e515]: In the neon-drenched world of ‘I Love Boosters,’ fashion is for the people
+              - listitem [ref=e516]:
+                - link "pope leo tailor vrtc.jpg" [ref=e517] [cursor=pointer]:
+                  - /url: /2026/05/21/style/video/designer-dresses-pope-filippo-sorcinelli-vrtc
+                  - generic [ref=e519]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "pope leo tailor vrtc.jpg"
+                - link "Meet the man who dresses the Pope 1:49" [ref=e520] [cursor=pointer]:
+                  - /url: /2026/05/21/style/video/designer-dresses-pope-filippo-sorcinelli-vrtc
+                  - generic [ref=e522]:
+                    - text: Meet the man who dresses the Pope
+                    - generic [ref=e523]: 1:49
+        - generic [ref=e529]:
+          - generic [ref=e533]:
+            - heading "Science" [level=2] [ref=e535]
+            - list [ref=e538]:
+              - listitem [ref=e539]:
+                - link "Time lapse images from May 2 to 15 show the changing view of crescent Mars from the Psyche spacecraft." [ref=e540] [cursor=pointer]:
+                  - /url: /2026/05/21/science/nasa-psyche-mission-mars-images
+                  - generic [ref=e542]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Time lapse images from May 2 to 15 show the changing view of crescent Mars from the Psyche spacecraft."
+                - link "Asteroid mission captures rarely seen perspective of Mars during close flyby" [ref=e543] [cursor=pointer]:
+                  - /url: /2026/05/21/science/nasa-psyche-mission-mars-images
+                  - generic [ref=e545]: Asteroid mission captures rarely seen perspective of Mars during close flyby
+          - generic [ref=e549]:
+            - heading "Travel & Beyond" [level=2] [ref=e551]
+            - list [ref=e554]:
+              - listitem [ref=e555]:
+                - link "Climbers walk in a long queue as they head to summit Mount Everest in the Solukhumbu district, also known as the Everest region, Nepal, May 18, 2026. REUTERS/Purnima Shrestha TPX IMAGES OF THE DAY" [ref=e556] [cursor=pointer]:
+                  - /url: /2026/05/21/asia/climbers-everest-summit-record-intl
+                  - generic [ref=e558]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Climbers walk in a long queue as they head to summit Mount Everest in the Solukhumbu district, also known as the Everest region, Nepal, May 18, 2026. REUTERS/Purnima Shrestha TPX IMAGES OF THE DAY"
+                - link "New record set as 274 climbers scale Everest’s south side in single day" [ref=e559] [cursor=pointer]:
+                  - /url: /2026/05/21/asia/climbers-everest-summit-record-intl
+                  - generic [ref=e561]: New record set as 274 climbers scale Everest’s south side in single day
+          - generic [ref=e565]:
+            - heading "Weather and Climate" [level=2] [ref=e567]
+            - list [ref=e570]:
+              - listitem [ref=e571]:
+                - link "iss073e1044319 (Oct. 28, 2025) --- Category 5 Hurricane Melissa, one of the most powerful storms to strike the Caribbean in recent history, is pictured about 50 miles south of Jamaica in this photograph from the International Space Station as it orbited 262 miles above the Yucatan Peninsula." [ref=e572] [cursor=pointer]:
+                  - /url: /2026/05/21/weather/hurricane-season-forecast-noaa-el-nino-climate
+                  - generic [ref=e574]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "iss073e1044319 (Oct. 28, 2025) --- Category 5 Hurricane Melissa, one of the most powerful storms to strike the Caribbean in recent history, is pictured about 50 miles south of Jamaica in this photograph from the International Space Station as it orbited 262 miles above the Yucatan Peninsula."
+                - link "Thank El Niño for NOAA’s latest forecast for Atlantic hurricane season" [ref=e575] [cursor=pointer]:
+                  - /url: /2026/05/21/weather/hurricane-season-forecast-noaa-el-nino-climate
+                  - generic [ref=e577]: Thank El Niño for NOAA’s latest forecast for Atlantic hurricane season
+        - generic [ref=e579]:
+          - heading "CNN Shorts" [level=2] [ref=e580]
+          - list [ref=e586]:
+            - listitem [ref=e587]:
+              - link "New Fed Chair_clean_thumb.jpg 1:04" [ref=e588] [cursor=pointer]:
+                - /url: /2026/05/22/politics/video/kevin-warsh-sworn-in-as-fed-chair-vrtc
+                - generic [ref=e590]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "New Fed Chair_clean_thumb.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:04
+              - link "Kevin Warsh sworn in as Fed chair" [ref=e591] [cursor=pointer]:
+                - /url: /2026/05/22/politics/video/kevin-warsh-sworn-in-as-fed-chair-vrtc
+                - generic:
+                  - generic: Kevin Warsh sworn in as Fed chair
+            - listitem [ref=e592]:
+              - link "119815_MDWTravel_thumbnail CLEAN.jpg 0:54" [ref=e593] [cursor=pointer]:
+                - /url: /2026/05/22/travel/video/memorial-day-travelers-roads-skies-high-gas-price-digvid-vrtc
+                - generic [ref=e595]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119815_MDWTravel_thumbnail CLEAN.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 0:54
+              - link "Memorial Day travelers hit the roads and skies as fuel prices soar" [ref=e596] [cursor=pointer]:
+                - /url: /2026/05/22/travel/video/memorial-day-travelers-roads-skies-high-gas-price-digvid-vrtc
+                - generic:
+                  - generic: Memorial Day travelers hit the roads and skies as fuel prices soar
+            - listitem [ref=e597]:
+              - link "thumb-clean.png 1:34" [ref=e598] [cursor=pointer]:
+                - /url: /2026/05/22/politics/video/anti-weaponization-fund-janaury-6-brandon-fellows-osullivan-vrtc
+                - generic [ref=e600]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "thumb-clean.png"
+                    - generic:
+                      - generic:
+                        - generic: 1:34
+              - link "Jan. 6 rioter wants $30M from DOJ" [ref=e601] [cursor=pointer]:
+                - /url: /2026/05/22/politics/video/anti-weaponization-fund-janaury-6-brandon-fellows-osullivan-vrtc
+                - generic:
+                  - generic: Jan. 6 rioter wants $30M from DOJ
+            - listitem [ref=e602]:
+              - link "119810_MexicanJournalistCarjacking clean vrtc. thumb.jpg 0:33" [ref=e603] [cursor=pointer]:
+                - /url: /2026/05/22/world/video/journalist-carjacked-on-live-tv-digvid-vrtc
+                - generic [ref=e605]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119810_MexicanJournalistCarjacking clean vrtc. thumb.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 0:33
+              - link "Journalist carjacked on live TV" [ref=e606] [cursor=pointer]:
+                - /url: /2026/05/22/world/video/journalist-carjacked-on-live-tv-digvid-vrtc
+                - generic:
+                  - generic: Journalist carjacked on live TV
+            - listitem [ref=e607]:
+              - link "119817_kyle busch fans.00_00_30_07.Still001.jpg 1:05" [ref=e608] [cursor=pointer]:
+                - /url: /2026/05/22/us/video/nascar-fans-kyle-busch-death-reaction-vrtc-digvid
+                - generic [ref=e610]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119817_kyle busch fans.00_00_30_07.Still001.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:05
+              - link "NASCAR fans react to Kyle Busch’s death" [ref=e611] [cursor=pointer]:
+                - /url: /2026/05/22/us/video/nascar-fans-kyle-busch-death-reaction-vrtc-digvid
+                - generic:
+                  - generic: NASCAR fans react to Kyle Busch’s death
+            - listitem [ref=e612]:
+              - link "Gabbard Resigns THUMB.jpg 1:40" [ref=e613] [cursor=pointer]:
+                - /url: /2026/05/22/politics/video/tulsi-gabbard-resign-director-national-intelligence-trump-digvid-vrtc
+                - generic [ref=e615]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Gabbard Resigns THUMB.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:40
+              - link "Gabbard resigns as director of national intelligence" [ref=e616] [cursor=pointer]:
+                - /url: /2026/05/22/politics/video/tulsi-gabbard-resign-director-national-intelligence-trump-digvid-vrtc
+                - generic:
+                  - generic: Gabbard resigns as director of national intelligence
+            - listitem [ref=e617]:
+              - link "119813_WHOEbolaUpdate thumb clean.jpg 2:13" [ref=e618] [cursor=pointer]:
+                - /url: /2026/05/22/health/video/ebola-threat-now-very-high-in-drc-digvid-vrtc
+                - generic [ref=e620]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119813_WHOEbolaUpdate thumb clean.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 2:13
+              - link "Ebola threat now ‘very high’ in DRC" [ref=e621] [cursor=pointer]:
+                - /url: /2026/05/22/health/video/ebola-threat-now-very-high-in-drc-digvid-vrtc
+                - generic:
+                  - generic: Ebola threat now ‘very high’ in DRC
+            - listitem [ref=e622]:
+              - link "119811_SpotifyAIRemixes_Clean Thumbnail vrtc0.jpg 0:53" [ref=e623] [cursor=pointer]:
+                - /url: /2026/05/22/business/video/spotify-ai-remixes-universal-music-group-vrtc
+                - generic [ref=e625]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119811_SpotifyAIRemixes_Clean Thumbnail vrtc0.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 0:53
+              - link "Spotify to allow some users to create AI remixes" [ref=e626] [cursor=pointer]:
+                - /url: /2026/05/22/business/video/spotify-ai-remixes-universal-music-group-vrtc
+                - generic:
+                  - generic: Spotify to allow some users to create AI remixes
+            - listitem [ref=e627]:
+              - link "partisan-battle-women-museum-vrtc-cln.jpg 2:11" [ref=e628] [cursor=pointer]:
+                - /url: /2026/05/22/politics/video/women-museum-national-mall-partisan-fight-vrtc
+                - generic [ref=e630]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "partisan-battle-women-museum-vrtc-cln.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 2:11
+              - link "Support for women’s museum breaks into partisan fight" [ref=e631] [cursor=pointer]:
+                - /url: /2026/05/22/politics/video/women-museum-national-mall-partisan-fight-vrtc
+                - generic:
+                  - generic: Support for women’s museum breaks into partisan fight
+            - listitem [ref=e632]:
+              - link "260522_ATI_Sheinelle1_clean_thumb.png 1:42" [ref=e633] [cursor=pointer]:
+                - /url: /2026/05/22/us/video/sheinelle-hones-motherhood-ati-vrtc-digvid
+                - generic [ref=e635]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "260522_ATI_Sheinelle1_clean_thumb.png"
+                    - generic:
+                      - generic:
+                        - generic: 1:42
+              - link "Sheinelle Jones on motherhood after loss" [ref=e636] [cursor=pointer]:
+                - /url: /2026/05/22/us/video/sheinelle-hones-motherhood-ati-vrtc-digvid
+                - generic:
+                  - generic: Sheinelle Jones on motherhood after loss
+            - listitem [ref=e637]:
+              - link "119687 Dana Noah rapidfire VRTC CLEAN.jpg 1:02" [ref=e638] [cursor=pointer]:
+                - /url: /2026/05/22/politics/video/noah-wyle-lightning-round-dana-bash-vrtc
+                - generic [ref=e640]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119687 Dana Noah rapidfire VRTC CLEAN.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:02
+              - link "Dana Bash does a lightning round with ‘The Pitt’ star Noah Wyle" [ref=e641] [cursor=pointer]:
+                - /url: /2026/05/22/politics/video/noah-wyle-lightning-round-dana-bash-vrtc
+                - generic:
+                  - generic: Dana Bash does a lightning round with ‘The Pitt’ star Noah Wyle
+            - listitem [ref=e642]:
+              - link "119808_clean_PrinceAndrewPoliceFoster_vrtc.00_00_18_14.Still003.jpg 1:07" [ref=e643] [cursor=pointer]:
+                - /url: /2026/05/22/world/video/former-prince-andrew-investigation-could-examine-sexual-misconduct-allegations-vrtc
+                - generic [ref=e645]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119808_clean_PrinceAndrewPoliceFoster_vrtc.00_00_18_14.Still003.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:07
+              - link "Former Prince Andrew investigation could examine sexual misconduct allegations" [ref=e646] [cursor=pointer]:
+                - /url: /2026/05/22/world/video/former-prince-andrew-investigation-could-examine-sexual-misconduct-allegations-vrtc
+                - generic:
+                  - generic: Former Prince Andrew investigation could examine sexual misconduct allegations
+            - listitem [ref=e647]:
+              - link "119814 Pentagon UFO Thumb.jpg 0:20" [ref=e648] [cursor=pointer]:
+                - /url: /2026/05/22/us/video/pentagon-releases-new-batch-of-ufo-files-digvid-vrtc
+                - generic [ref=e650]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119814 Pentagon UFO Thumb.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 0:20
+              - link "Pentagon releases new batch of UFO files" [ref=e651] [cursor=pointer]:
+                - /url: /2026/05/22/us/video/pentagon-releases-new-batch-of-ufo-files-digvid-vrtc
+                - generic:
+                  - generic: Pentagon releases new batch of UFO files
+            - listitem [ref=e652]:
+              - link "119755_DACADelays_VRTC_Thumbnail_CLEAN.jpg 1:38" [ref=e653] [cursor=pointer]:
+                - /url: /2026/05/22/us/video/daca-renewal-delays-vrtc
+                - generic [ref=e655]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119755_DACADelays_VRTC_Thumbnail_CLEAN.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:38
+              - link "Jobless DACA recipient selling burritos while waiting for approval" [ref=e656] [cursor=pointer]:
+                - /url: /2026/05/22/us/video/daca-renewal-delays-vrtc
+                - generic:
+                  - generic: Jobless DACA recipient selling burritos while waiting for approval
+            - listitem [ref=e657]:
+              - link "119809_ColbertBeatles vrtc thumb cln.png 1:03" [ref=e658] [cursor=pointer]:
+                - /url: /2026/05/22/entertainment/video/paul-mccartney-stephen-colbert-hello-goodbye-beatles-vrtc
+                - generic [ref=e660]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119809_ColbertBeatles vrtc thumb cln.png"
+                    - generic:
+                      - generic:
+                        - generic: 1:03
+              - link "Paul McCartney joins Colbert for full-circle moment as final guest" [ref=e661] [cursor=pointer]:
+                - /url: /2026/05/22/entertainment/video/paul-mccartney-stephen-colbert-hello-goodbye-beatles-vrtc
+                - generic:
+                  - generic: Paul McCartney joins Colbert for full-circle moment as final guest
+            - listitem [ref=e662]:
+              - link "AC STEPHEN.jpg 1:35" [ref=e663] [cursor=pointer]:
+                - /url: /2026/05/22/entertainment/video/stephen-colbert-late-show-anderson-cooper-vrtc
+                - generic [ref=e665]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "AC STEPHEN.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:35
+              - link "Anderson Cooper’s emotional goodbye to ‘The Late Show’" [ref=e666] [cursor=pointer]:
+                - /url: /2026/05/22/entertainment/video/stephen-colbert-late-show-anderson-cooper-vrtc
+                - generic:
+                  - generic: Anderson Cooper’s emotional goodbye to ‘The Late Show’
+            - listitem [ref=e667]:
+              - link "Quest African Startups.png 1:57" [ref=e668] [cursor=pointer]:
+                - /url: /2026/05/22/world/video/vrtc-global-perspectives-quest-africa-startups-tech
+                - generic [ref=e670]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Quest African Startups.png"
+                    - generic:
+                      - generic:
+                        - generic: 1:57
+              - link "The momentum behind Africa’s startups" [ref=e671] [cursor=pointer]:
+                - /url: /2026/05/22/world/video/vrtc-global-perspectives-quest-africa-startups-tech
+                - generic:
+                  - generic: The momentum behind Africa’s startups
+            - listitem [ref=e672]:
+              - link "Screenshot 2026-05-18 at 15.50.17.png 1:21" [ref=e673] [cursor=pointer]:
+                - /url: /2026/05/22/world/video/global-trade-wto-global-perspectives-vrtc
+                - generic [ref=e675]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Screenshot 2026-05-18 at 15.50.17.png"
+                    - generic:
+                      - generic:
+                        - generic: 1:21
+              - link "How global trade is evolving" [ref=e676] [cursor=pointer]:
+                - /url: /2026/05/22/world/video/global-trade-wto-global-perspectives-vrtc
+                - generic:
+                  - generic: How global trade is evolving
+            - listitem [ref=e677]:
+              - link "Khaman Maluach.png 2:06" [ref=e678] [cursor=pointer]:
+                - /url: /2026/05/22/world/video/africa-creative-economy-global-perspectives-vrtc
+                - generic [ref=e680]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Khaman Maluach.png"
+                    - generic:
+                      - generic:
+                        - generic: 2:06
+              - link "African creatives you should know" [ref=e681] [cursor=pointer]:
+                - /url: /2026/05/22/world/video/africa-creative-economy-global-perspectives-vrtc
+                - generic:
+                  - generic: African creatives you should know
+            - listitem [ref=e682]:
+              - link "GP Experts.png 1:20" [ref=e683] [cursor=pointer]:
+                - /url: /2026/05/22/world/video/africa-global-perspectives-food-vrtc
+                - generic [ref=e685]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "GP Experts.png"
+                    - generic:
+                      - generic:
+                        - generic: 1:20
+              - link "Why can’t Africa feed itself?" [ref=e686] [cursor=pointer]:
+                - /url: /2026/05/22/world/video/africa-global-perspectives-food-vrtc
+                - generic:
+                  - generic: Why can’t Africa feed itself?
+            - listitem [ref=e687]:
+              - link "Screenshot 2026-05-20 at 20.50.46.png 1:38" [ref=e688] [cursor=pointer]:
+                - /url: /2026/05/22/world/video/global-perspectives-africa-storytelling-chimamanda-ngozi-adichie-vrtc
+                - generic [ref=e690]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Screenshot 2026-05-20 at 20.50.46.png"
+                    - generic:
+                      - generic:
+                        - generic: 1:38
+              - link "Chimamanda Adichie on African-centered stories" [ref=e691] [cursor=pointer]:
+                - /url: /2026/05/22/world/video/global-perspectives-africa-storytelling-chimamanda-ngozi-adichie-vrtc
+                - generic:
+                  - generic: Chimamanda Adichie on African-centered stories
+            - listitem [ref=e692]:
+              - link "119807__CLEAN_ColbertShowLastGuest_VRTC.00_00_05_10.Still001.jpg 1:04" [ref=e693] [cursor=pointer]:
+                - /url: /2026/05/22/entertainment/video/all-the-surprise-celebrity-guests-on-colberts-last-show-vrtc
+                - generic [ref=e695]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119807__CLEAN_ColbertShowLastGuest_VRTC.00_00_05_10.Still001.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:04
+              - link "All the surprise celebrity guests on Colbert’s last show" [ref=e696] [cursor=pointer]:
+                - /url: /2026/05/22/entertainment/video/all-the-surprise-celebrity-guests-on-colberts-last-show-vrtc
+                - generic:
+                  - generic: All the surprise celebrity guests on Colbert’s last show
+            - listitem [ref=e697]:
+              - link "thumbnail byron clip 2 vrtc.jpg 1:50" [ref=e698] [cursor=pointer]:
+                - /url: /2026/05/22/entertainment/video/byron-allen-comics-unleashed-colbert-time-slot-not-political-blackwell-vrtc
+                - generic [ref=e700]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "thumbnail byron clip 2 vrtc.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:50
+              - link "Byron Allen on taking over Colbert’s time slot" [ref=e701] [cursor=pointer]:
+                - /url: /2026/05/22/entertainment/video/byron-allen-comics-unleashed-colbert-time-slot-not-political-blackwell-vrtc
+                - generic:
+                  - generic: Byron Allen on taking over Colbert’s time slot
+            - listitem [ref=e702]:
+              - link "119805_ColbertFinaleClean.jpg 1:37" [ref=e703] [cursor=pointer]:
+                - /url: /2026/05/22/entertainment/video/the-late-show-stephen-colbert-finale-vrtc
+                - generic [ref=e705]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "119805_ColbertFinaleClean.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 1:37
+              - link "Stephen Colbert says goodbye to ‘The Late Show’" [ref=e706] [cursor=pointer]:
+                - /url: /2026/05/22/entertainment/video/the-late-show-stephen-colbert-finale-vrtc
+                - generic:
+                  - generic: Stephen Colbert says goodbye to ‘The Late Show’
+            - listitem [ref=e707]:
+              - link "RenameThisVertical Copy 02.00_00_09_04.Still001.jpg 0:58" [ref=e708] [cursor=pointer]:
+                - /url: /2026/05/22/entertainment/video/nicki-minaj-spacex-starship-launch-hnk-vrtc-digvid
+                - generic [ref=e710]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "RenameThisVertical Copy 02.00_00_09_04.Still001.jpg"
+                    - generic:
+                      - generic:
+                        - generic: 0:58
+              - link "Nicki Minaj makes surprise appearance at SpaceX’s Starship launch attempt" [ref=e711] [cursor=pointer]:
+                - /url: /2026/05/22/entertainment/video/nicki-minaj-spacex-starship-launch-hnk-vrtc-digvid
+                - generic:
+                  - generic: Nicki Minaj makes surprise appearance at SpaceX’s Starship launch attempt
+        - generic [ref=e719]:
+          - link "African Voices" [ref=e721] [cursor=pointer]:
+            - /url: https://edition.cnn.com/world/africa/african-voices
+            - heading "African Voices" [level=2] [ref=e722]:
+              - text: African Voices
+              - img [ref=e723]
+          - list [ref=e727]:
+            - listitem [ref=e728]:
+              - link "Team captain Ryan Mendes is an attacking winger who helped Cape Verde qualify for their first-ever FIFA World Cup. The island nation, off the coast of West Africa, also reached the 2013 and 2023 AFCON quarterfinals." [ref=e729] [cursor=pointer]:
+                - /url: /sport/cape-verde-world-cup-debutants-nothing-is-impossible-spc
+                - generic [ref=e731]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Team captain Ryan Mendes is an attacking winger who helped Cape Verde qualify for their first-ever FIFA World Cup. The island nation, off the coast of West Africa, also reached the 2013 and 2023 AFCON quarterfinals."
+              - link "The World Cup debutants determined to prove ‘nothing is impossible’" [ref=e732] [cursor=pointer]:
+                - /url: /sport/cape-verde-world-cup-debutants-nothing-is-impossible-spc
+                - generic [ref=e734]: The World Cup debutants determined to prove ‘nothing is impossible’
+            - listitem [ref=e735]:
+              - link "<p>Whether it's a continent-wide educational ecosystem creating a pipeline to tech talent, a company building AI to revolutionize access for those with hearing loss in Kenya, or innovations and platforms powering the training of surgeons — businesses and individuals are transforming the way Africans learn, teach and provide medical care.</p>" [ref=e736] [cursor=pointer]:
+                - /url: /2026/05/20/world/video/marketplace-africa-the-link-ai-rwanda-alx-anthropic-proximie-ircad-signvrse-spc
+                - generic [ref=e738]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "<p>Whether it's a continent-wide educational ecosystem creating a pipeline to tech talent, a company building AI to revolutionize access for those with hearing loss in Kenya, or innovations and platforms powering the training of surgeons — businesses and individuals are transforming the way Africans learn, teach and provide medical care.</p>"
+              - link "Emerging tech and Africa — transforming healthcare, education and accessibility 23:16" [ref=e739] [cursor=pointer]:
+                - /url: /2026/05/20/world/video/marketplace-africa-the-link-ai-rwanda-alx-anthropic-proximie-ircad-signvrse-spc
+                - generic [ref=e741]:
+                  - text: Emerging tech and Africa — transforming healthcare, education and accessibility
+                  - generic [ref=e742]: 23:16
+            - listitem [ref=e744]:
+              - link "Yusuf Mume Saleh began feeding hyenas in the 1950s to stop them from preying on his goats." [ref=e745] [cursor=pointer]:
+                - /url: /world/africa/bone-crushing-hyenas-cleaning-ethiopian-streets-spc
+                - generic [ref=e747]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Yusuf Mume Saleh began feeding hyenas in the 1950s to stop them from preying on his goats."
+              - link "Bone-crushing hyenas are cleaning up city streets in Ethiopia" [ref=e748] [cursor=pointer]:
+                - /url: /world/africa/bone-crushing-hyenas-cleaning-ethiopian-streets-spc
+                - generic [ref=e750]: Bone-crushing hyenas are cleaning up city streets in Ethiopia
+        - generic [ref=e757]:
+          - heading "More from CNN" [level=2] [ref=e758]
+          - generic [ref=e759]:
+            - generic [ref=e767]:
+              - link "Breadstall pizza, London Toby Hancock/CNN" [ref=e768] [cursor=pointer]:
+                - /url: /travel/london-pizza-best-world
+                - generic [ref=e770]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Breadstall pizza, London"
+                    - generic:
+                      - generic: Toby Hancock/CNN
+              - link "‘London pizza’ is now a thing — and some say it’s the best in the world" [ref=e771] [cursor=pointer]:
+                - /url: /travel/london-pizza-best-world
+                - generic [ref=e773]: ‘London pizza’ is now a thing — and some say it’s the best in the world
+            - list [ref=e780]:
+              - listitem [ref=e781]:
+                - link "US President Donald Trump and Israeli Prime Minister Benjamin Netanyahu." [ref=e782] [cursor=pointer]:
+                  - /url: /2026/05/20/politics/trump-netanyahu-tense-phone-call
+                  - generic [ref=e784]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "US President Donald Trump and Israeli Prime Minister Benjamin Netanyahu."
+                - link "Trump and Netanyahu diverge on Iran war’s future in tense phone call" [ref=e785] [cursor=pointer]:
+                  - /url: /2026/05/20/politics/trump-netanyahu-tense-phone-call
+                  - generic [ref=e787]: Trump and Netanyahu diverge on Iran war’s future in tense phone call
+              - listitem [ref=e788]:
+                - link "Larry Bushart is filing a lawsuit after sharing a meme related to the Charlie Kirk shooting landed him in jail for over a month." [ref=e789] [cursor=pointer]:
+                  - /url: /2026/05/20/politics/charlie-kirk-shooting-larry-bushart-settlement
+                  - generic [ref=e791]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Larry Bushart is filing a lawsuit after sharing a meme related to the Charlie Kirk shooting landed him in jail for over a month."
+                - link "Retired cop jailed over Charlie Kirk meme settles unlawful incarceration lawsuit for over $800K" [ref=e792] [cursor=pointer]:
+                  - /url: /2026/05/20/politics/charlie-kirk-shooting-larry-bushart-settlement
+                  - generic [ref=e794]: Retired cop jailed over Charlie Kirk meme settles unlawful incarceration lawsuit for over $800K
+              - listitem [ref=e795]:
+                - link "In this May 1980 photo, Barney Frank waits for signatures to the National Rep. petition at the Newton bus stop on Winter Street in downtown Boston." [ref=e796] [cursor=pointer]:
+                  - /url: /2026/05/20/politics/barney-frank-former-congressman
+                  - generic [ref=e798]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "In this May 1980 photo, Barney Frank waits for signatures to the National Rep. petition at the Newton bus stop on Winter Street in downtown Boston."
+                - link "Former US Rep. Barney Frank, liberal icon who regulated a ‘too big’ financial industry, dies at 86" [ref=e799] [cursor=pointer]:
+                  - /url: /2026/05/20/politics/barney-frank-former-congressman
+                  - generic [ref=e801]: Former US Rep. Barney Frank, liberal icon who regulated a ‘too big’ financial industry, dies at 86
+              - listitem [ref=e802]:
+                - 'link "Poipu Beach, Kauai, Hawaii: According to Stephen Leatherman, who is also known as ''Dr. Beach,'' and a coastal scientist at Florida International University in Miami, Poipu Beach is a crescent-shaped beach located on the sunny, dry side of the island of Kauai, and is the best beach in the US for 2026." [ref=e803] [cursor=pointer]':
+                  - /url: /2026/05/21/travel/top-10-us-beaches-2026-dr-beach
+                  - generic [ref=e805]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - 'img "Poipu Beach, Kauai, Hawaii: According to Stephen Leatherman, who is also known as ''Dr. Beach,'' and a coastal scientist at Florida International University in Miami, Poipu Beach is a crescent-shaped beach located on the sunny, dry side of the island of Kauai, and is the best beach in the US for 2026."'
+                - link "Hawaii and Florida top list of best US beaches for 2026, according to ‘Dr. Beach’" [ref=e806] [cursor=pointer]:
+                  - /url: /2026/05/21/travel/top-10-us-beaches-2026-dr-beach
+                  - generic [ref=e808]: Hawaii and Florida top list of best US beaches for 2026, according to ‘Dr. Beach’
+              - listitem [ref=e809]:
+                - link "The Zillow website on a laptop computer arranged in Hastings on Hudson, New York, on November 7, 2021." [ref=e810] [cursor=pointer]:
+                  - /url: /2026/05/20/business/zillow-compass-private-home-listings-lawsuit
+                  - generic [ref=e812]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "The Zillow website on a laptop computer arranged in Hastings on Hudson, New York, on November 7, 2021."
+                - link "Thousands of Chicago-area home listings just went dark on Zillow. Here’s why" [ref=e813] [cursor=pointer]:
+                  - /url: /2026/05/20/business/zillow-compass-private-home-listings-lawsuit
+                  - generic [ref=e815]: Thousands of Chicago-area home listings just went dark on Zillow. Here’s why
+    - contentinfo [ref=e817]:
+      - generic [ref=e818]:
+        - search [ref=e820]:
+          - textbox "Search" [ref=e821]:
+            - /placeholder: Search CNN...
+          - button "Submit" [ref=e822]
+        - navigation [ref=e824]:
+          - list [ref=e825]:
+            - listitem [ref=e826]:
+              - link "World" [ref=e827] [cursor=pointer]:
+                - /url: https://edition.cnn.com/world
+              - list [ref=e828]:
+                - listitem [ref=e829]:
+                  - link "World Africa" [ref=e830] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/world/africa
+                    - text: Africa
+                - listitem [ref=e831]:
+                  - link "World Americas" [ref=e832] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/world/americas
+                    - text: Americas
+                - listitem [ref=e833]:
+                  - link "World Asia" [ref=e834] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/world/asia
+                    - text: Asia
+                - listitem [ref=e835]:
+                  - link "World Australia" [ref=e836] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/world/australia
+                    - text: Australia
+                - listitem [ref=e837]:
+                  - link "World China" [ref=e838] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/world/china
+                    - text: China
+                - listitem [ref=e839]:
+                  - link "World Europe" [ref=e840] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/world/europe
+                    - text: Europe
+                - listitem [ref=e841]:
+                  - link "World India" [ref=e842] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/world/india
+                    - text: India
+                - listitem [ref=e843]:
+                  - link "World Middle East" [ref=e844] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/world/middle-east
+                    - text: Middle East
+                - listitem [ref=e845]:
+                  - link "World United Kingdom" [ref=e846] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/world/united-kingdom
+                    - text: United Kingdom
+            - listitem [ref=e847]:
+              - link "US Politics" [ref=e848] [cursor=pointer]:
+                - /url: https://edition.cnn.com/politics
+              - list [ref=e849]:
+                - listitem [ref=e850]:
+                  - link "US Politics Trump" [ref=e851] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/politics/president-donald-trump-47
+                    - text: Trump
+                - listitem [ref=e852]:
+                  - link "US Politics Facts First" [ref=e853] [cursor=pointer]:
+                    - /url: https://www.cnn.com/politics/fact-check
+                    - text: Facts First
+                - listitem [ref=e854]:
+                  - link "US Politics CNN Polls" [ref=e855] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/polling
+                    - text: CNN Polls
+                - listitem [ref=e856]:
+                  - link "US Politics Elections 2026" [ref=e857] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/election/2026
+                    - text: Elections 2026
+                - listitem [ref=e858]:
+                  - link "US Politics Redistricting Tracker" [ref=e859] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/politics/state-redistricting-maps-vis/index.html
+                    - text: Redistricting Tracker
+                - listitem [ref=e860]:
+                  - link "US Politics Epstein Files" [ref=e861] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/politics/epstein-files
+                    - text: Epstein Files
+            - listitem [ref=e862]:
+              - link "Business" [ref=e863] [cursor=pointer]:
+                - /url: https://edition.cnn.com/business
+              - list [ref=e864]:
+                - listitem [ref=e865]:
+                  - link "Business Tech" [ref=e866] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/business/tech
+                    - text: Tech
+                - listitem [ref=e867]:
+                  - link "Business Media" [ref=e868] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/business/media
+                    - text: Media
+                - listitem [ref=e869]:
+                  - link "Business Calculators" [ref=e870] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/business/financial-calculators
+                    - text: Calculators
+                - listitem [ref=e871]:
+                  - link "Business Videos" [ref=e872] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/business/videos
+                    - text: Videos
+            - listitem [ref=e873]:
+              - link "Markets" [ref=e874] [cursor=pointer]:
+                - /url: https://edition.cnn.com/markets
+              - list [ref=e875]:
+                - listitem [ref=e876]:
+                  - link "Markets Pre-markets" [ref=e877] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/markets/premarkets
+                    - text: Pre-markets
+                - listitem [ref=e878]:
+                  - link "Markets After-Hours" [ref=e879] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/markets/after-hours
+                    - text: After-Hours
+                - listitem [ref=e880]:
+                  - link "Markets Fear & Greed" [ref=e881] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/markets/fear-and-greed
+                    - text: Fear & Greed
+                - listitem [ref=e882]:
+                  - link "Markets Investing" [ref=e883] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/business/investing
+                    - text: Investing
+                - listitem [ref=e884]:
+                  - link "Markets Markets Now" [ref=e885] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/business/markets-now
+                    - text: Markets Now
+                - listitem [ref=e886]:
+                  - link "Markets Nightcap" [ref=e887] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/business/markets/nightcap
+                    - text: Nightcap
+            - listitem [ref=e888]:
+              - link "Health" [ref=e889] [cursor=pointer]:
+                - /url: https://edition.cnn.com/health
+              - list [ref=e890]:
+                - listitem [ref=e891]:
+                  - link "Health Life, But Better" [ref=e892] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/interactive/life-but-better/
+                    - text: Life, But Better
+                - listitem [ref=e893]:
+                  - link "Health Fitness" [ref=e894] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/health/life-but-better/fitness
+                    - text: Fitness
+                - listitem [ref=e895]:
+                  - link "Health Food" [ref=e896] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/health/life-but-better/food
+                    - text: Food
+                - listitem [ref=e897]:
+                  - link "Health Sleep" [ref=e898] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/health/life-but-better/sleep
+                    - text: Sleep
+                - listitem [ref=e899]:
+                  - link "Health Mindfulness" [ref=e900] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/health/life-but-better/mindfulness
+                    - text: Mindfulness
+                - listitem [ref=e901]:
+                  - link "Health Relationships" [ref=e902] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/health/life-but-better/relationships
+                    - text: Relationships
+            - listitem [ref=e903]:
+              - link "Entertainment" [ref=e904] [cursor=pointer]:
+                - /url: https://edition.cnn.com/entertainment
+              - list [ref=e905]:
+                - listitem [ref=e906]:
+                  - link "Entertainment Movies" [ref=e907] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/entertainment/movies
+                    - text: Movies
+                - listitem [ref=e908]:
+                  - link "Entertainment Television" [ref=e909] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/entertainment/tv-shows
+                    - text: Television
+                - listitem [ref=e910]:
+                  - link "Entertainment Celebrity" [ref=e911] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/entertainment/celebrities
+                    - text: Celebrity
+            - listitem [ref=e912]:
+              - link "Tech" [ref=e913] [cursor=pointer]:
+                - /url: https://edition.cnn.com/business/tech
+              - list [ref=e914]:
+                - listitem [ref=e915]:
+                  - link "Tech Innovate" [ref=e916] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/business/tech/innovate
+                    - text: Innovate
+            - listitem [ref=e917]:
+              - link "Style" [ref=e918] [cursor=pointer]:
+                - /url: https://edition.cnn.com/style
+              - list [ref=e919]:
+                - listitem [ref=e920]:
+                  - link "Style Arts" [ref=e921] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/style/arts
+                    - text: Arts
+                - listitem [ref=e922]:
+                  - link "Style Design" [ref=e923] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/style/design
+                    - text: Design
+                - listitem [ref=e924]:
+                  - link "Style Fashion" [ref=e925] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/style/fashion
+                    - text: Fashion
+                - listitem [ref=e926]:
+                  - link "Style Architecture" [ref=e927] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/style/architecture
+                    - text: Architecture
+                - listitem [ref=e928]:
+                  - link "Style Luxury" [ref=e929] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/style/luxury
+                    - text: Luxury
+                - listitem [ref=e930]:
+                  - link "Style Beauty" [ref=e931] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/style/beauty
+                    - text: Beauty
+                - listitem [ref=e932]:
+                  - link "Style Video" [ref=e933] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/style/videos
+                    - text: Video
+            - listitem [ref=e934]:
+              - link "Travel" [ref=e935] [cursor=pointer]:
+                - /url: https://edition.cnn.com/travel
+              - list [ref=e936]:
+                - listitem [ref=e937]:
+                  - link "Travel Destinations" [ref=e938] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/travel/destinations
+                    - text: Destinations
+                - listitem [ref=e939]:
+                  - link "Travel Food & Drink" [ref=e940] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/travel/food-and-drink
+                    - text: Food & Drink
+                - listitem [ref=e941]:
+                  - link "Travel Stay" [ref=e942] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/travel/stay
+                    - text: Stay
+                - listitem [ref=e943]:
+                  - link "Travel News" [ref=e944] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/travel/news
+                    - text: News
+                - listitem [ref=e945]:
+                  - link "Travel Videos" [ref=e946] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/travel/videos
+                    - text: Videos
+            - listitem [ref=e947]:
+              - link "Sports" [ref=e948] [cursor=pointer]:
+                - /url: https://edition.cnn.com/sport
+              - list [ref=e949]:
+                - listitem [ref=e950]:
+                  - link "Sports Football" [ref=e951] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/sport/soccer
+                    - text: Football
+                - listitem [ref=e952]:
+                  - link "Sports Tennis" [ref=e953] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/sport/tennis
+                    - text: Tennis
+                - listitem [ref=e954]:
+                  - link "Sports Golf" [ref=e955] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/sport/golf
+                    - text: Golf
+                - listitem [ref=e956]:
+                  - link "Sports Motorsport" [ref=e957] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/sport/motorsport
+                    - text: Motorsport
+                - listitem [ref=e958]:
+                  - link "Sports US Sports" [ref=e959] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/sport/us-sports
+                    - text: US Sports
+                - listitem [ref=e960]:
+                  - link "Sports Olympics" [ref=e961] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/sport/milan-cortina-winter-olympics-2026
+                    - text: Olympics
+            - listitem [ref=e962]:
+              - link "Science" [ref=e963] [cursor=pointer]:
+                - /url: https://edition.cnn.com/science
+              - list [ref=e964]:
+                - listitem [ref=e965]:
+                  - link "Science Space" [ref=e966] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/science/space
+                    - text: Space
+                - listitem [ref=e967]:
+                  - link "Science Life" [ref=e968] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/science/life
+                    - text: Life
+                - listitem [ref=e969]:
+                  - link "Science Unearthed" [ref=e970] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/science/unearthed
+                    - text: Unearthed
+            - listitem [ref=e971]:
+              - link "Climate" [ref=e972] [cursor=pointer]:
+                - /url: https://edition.cnn.com/climate
+              - list [ref=e973]:
+                - listitem [ref=e974]:
+                  - link "Climate Solutions" [ref=e975] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/climate/solutions
+                    - text: Solutions
+                - listitem [ref=e976]:
+                  - link "Climate Weather" [ref=e977] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/weather
+                    - text: Weather
+            - listitem [ref=e978]:
+              - link "Weather" [ref=e979] [cursor=pointer]:
+                - /url: https://edition.cnn.com/weather
+              - list [ref=e980]:
+                - listitem [ref=e981]:
+                  - link "Weather Video" [ref=e982] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/weather/video
+                    - text: Video
+                - listitem [ref=e983]:
+                  - link "Weather Climate" [ref=e984] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/climate
+                    - text: Climate
+            - listitem [ref=e985]:
+              - link "Ukraine-Russia War" [ref=e986] [cursor=pointer]:
+                - /url: https://edition.cnn.com/world/europe/ukraine
+              - list
+            - listitem [ref=e987]:
+              - link "Israel-Hamas War" [ref=e988] [cursor=pointer]:
+                - /url: https://edition.cnn.com/world/middleeast/israel
+              - list
+            - listitem [ref=e989]:
+              - link "Features" [ref=e990] [cursor=pointer]:
+                - /url: https://edition.cnn.com/
+              - list [ref=e991]:
+                - listitem [ref=e992]:
+                  - link "Features As Equals" [ref=e993] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/interactive/asequals
+                    - text: As Equals
+                - listitem [ref=e994]:
+                  - link "Features Call to Earth" [ref=e995] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/interactive/call-to-earth
+                    - text: Call to Earth
+                - listitem [ref=e996]:
+                  - link "Features Freedom Project" [ref=e997] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/world/freedom-project
+                    - text: Freedom Project
+                - listitem [ref=e998]:
+                  - link "Features Impact Your World" [ref=e999] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/world/impact-your-world
+                    - text: Impact Your World
+                - listitem [ref=e1000]:
+                  - link "Features Inside Africa" [ref=e1001] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/world/africa/inside-africa
+                    - text: Inside Africa
+                - listitem [ref=e1002]:
+                  - link "Features CNN Heroes" [ref=e1003] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/world/heroes
+                    - text: CNN Heroes
+            - listitem [ref=e1004]:
+              - link "Watch" [ref=e1005] [cursor=pointer]:
+                - /url: https://edition.cnn.com/watch
+              - list [ref=e1006]:
+                - listitem [ref=e1007]:
+                  - link "Watch Featured" [ref=e1008] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/watch
+                    - text: Featured
+                - listitem [ref=e1009]:
+                  - link "Watch CNN Headlines" [ref=e1010] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/videos/fast/cnn-headlines
+                    - text: CNN Headlines
+                - listitem [ref=e1011]:
+                  - link "Watch Shows A-Z" [ref=e1012] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/tv/all-shows
+                    - text: Shows A-Z
+                - listitem [ref=e1013]:
+                  - link "Watch CNN 10" [ref=e1014] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/cnn10
+                    - text: CNN 10
+                - listitem [ref=e1015]:
+                  - link "Watch CNN TV Schedule" [ref=e1016] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/tv/schedule/cnn
+                    - text: CNN TV Schedule
+            - listitem [ref=e1017]:
+              - link "Listen" [ref=e1018] [cursor=pointer]:
+                - /url: https://edition.cnn.com/audio
+              - list [ref=e1019]:
+                - listitem [ref=e1020]:
+                  - link "Listen All There Is with Anderson Cooper" [ref=e1021] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/audio/podcasts/all-there-is-with-anderson-cooper
+                    - text: All There Is with Anderson Cooper
+                - listitem [ref=e1022]:
+                  - link "Listen Chasing Life with Dr. Sanjay Gupta" [ref=e1023] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/audio/podcasts/chasing-life
+                    - text: Chasing Life with Dr. Sanjay Gupta
+                - listitem [ref=e1024]:
+                  - link "Listen The Assignment with Audie Cornish" [ref=e1025] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/audio/podcasts/the-assignment
+                    - text: The Assignment with Audie Cornish
+                - listitem [ref=e1026]:
+                  - link "Listen Terms of Service with Clare Duffy" [ref=e1027] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/audio/podcasts/terms-of-service-with-clare-duffy
+                    - text: Terms of Service with Clare Duffy
+                - listitem [ref=e1028]:
+                  - link "Listen CNN 5 Things" [ref=e1029] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/audio/podcasts/5-things
+                    - text: CNN 5 Things
+                - listitem [ref=e1030]:
+                  - link "Listen All CNN Podcasts" [ref=e1031] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/audio
+                    - text: All CNN Podcasts
+            - listitem [ref=e1032]:
+              - link "Games" [ref=e1033] [cursor=pointer]:
+                - /url: https://edition.cnn.com/games
+              - list [ref=e1034]:
+                - listitem [ref=e1035]:
+                  - link "Games Daily Crossword" [ref=e1036] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/games/play/cnn-crossword
+                    - text: Daily Crossword
+                - listitem [ref=e1037]:
+                  - link "Games Jumble Crossword" [ref=e1038] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/games/play/jumble-crossword-daily
+                    - text: Jumble Crossword
+                - listitem [ref=e1039]:
+                  - link "Games Photo Shuffle" [ref=e1040] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/games/play/photo-shuffle
+                    - text: Photo Shuffle
+                - listitem [ref=e1041]:
+                  - link "Games Sudoblock" [ref=e1042] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/games/play/sudoblock
+                    - text: Sudoblock
+                - listitem [ref=e1043]:
+                  - link "Games Sudoku" [ref=e1044] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/games/play/daily-sudoku
+                    - text: Sudoku
+                - listitem [ref=e1045]:
+                  - link "Games 5 Things Quiz" [ref=e1046] [cursor=pointer]:
+                    - /url: https://cnn.it/5thingsquiz
+                    - text: 5 Things Quiz
+            - listitem [ref=e1047]:
+              - link "About CNN" [ref=e1048] [cursor=pointer]:
+                - /url: https://edition.cnn.com/about
+              - list [ref=e1049]:
+                - listitem [ref=e1050]:
+                  - link "About CNN Photos" [ref=e1051] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/world/photos
+                    - text: Photos
+                - listitem [ref=e1052]:
+                  - link "About CNN Investigations" [ref=e1053] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/us/cnn-investigates
+                    - text: Investigations
+                - listitem [ref=e1054]:
+                  - link "About CNN CNN Profiles" [ref=e1055] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/profiles
+                    - text: CNN Profiles
+                - listitem [ref=e1056]:
+                  - link "About CNN CNN Leadership" [ref=e1057] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/profiles/cnn-leadership
+                    - text: CNN Leadership
+                - listitem [ref=e1058]:
+                  - link "About CNN CNN Newsletters" [ref=e1059] [cursor=pointer]:
+                    - /url: https://edition.cnn.com/newsletters
+                    - text: CNN Newsletters
+                - listitem [ref=e1060]:
+                  - link "About CNN Work for CNN" [ref=e1061] [cursor=pointer]:
+                    - /url: https://careers.wbd.com/cnnjobs
+                    - text: Work for CNN
+        - separator [ref=e1062]
+        - generic [ref=e1063]:
+          - link "CNN logo" [ref=e1066] [cursor=pointer]:
+            - /url: https://edition.cnn.com
+            - img [ref=e1068]
+          - generic [ref=e1074]:
+            - link "Video" [ref=e1075] [cursor=pointer]:
+              - /url: https://edition.cnn.com/watch
+              - text: Watch
+            - link "Audio" [ref=e1076] [cursor=pointer]:
+              - /url: https://edition.cnn.com/audio
+              - text: Listen
+            - link "Live TV" [ref=e1077] [cursor=pointer]:
+              - /url: https://edition.cnn.com/live-tv
+            - separator [ref=e1078]
+            - navigation "User Account Nav" [ref=e1080]:
+              - link "User Account Log In Button" [ref=e1082] [cursor=pointer]: Sign in
+            - generic [ref=e1083]:
+              - generic [ref=e1084]:
+                - generic [ref=e1085]: Follow CNN
+                - list [ref=e1086]:
+                  - listitem [ref=e1087]:
+                    - link "Visit us on Facebook" [ref=e1088] [cursor=pointer]:
+                      - /url: https://facebook.com/CNN
+                      - img [ref=e1089]
+                  - listitem [ref=e1091]:
+                    - link "Visit us on X" [ref=e1092] [cursor=pointer]:
+                      - /url: https://twitter.com/CNN
+                      - img [ref=e1093]
+                  - listitem [ref=e1095]:
+                    - link "Visit us on Instagram" [ref=e1096] [cursor=pointer]:
+                      - /url: https://instagram.com/CNN
+                      - img [ref=e1097]
+                  - listitem [ref=e1099]:
+                    - link "TikTok" [ref=e1100] [cursor=pointer]:
+                      - /url: https://www.tiktok.com/@cnn?lang=en
+                      - img "TikTok" [ref=e1101]
+                  - listitem [ref=e1103]:
+                    - link "LinkedIn" [ref=e1104] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/company/cnn
+                      - img "LinkedIn" [ref=e1105]
+                  - listitem [ref=e1107]:
+                    - link "Visit us on Threads" [ref=e1108] [cursor=pointer]:
+                      - /url: https://www.threads.com/@cnn
+                      - img [ref=e1109]
+              - separator [ref=e1112]
+              - generic [ref=e1113]:
+                - generic [ref=e1114]: Download the CNN app
+                - generic [ref=e1115]:
+                  - link "Download on Apple App Store" [ref=e1116] [cursor=pointer]:
+                    - /url: https://cnn.onelink.me/PVpf/q9j1odhf
+                    - img [ref=e1117]
+                  - link "Get it on Google Play" [ref=e1152] [cursor=pointer]:
+                    - /url: https://cnn.onelink.me/PVpf/43qg6lsp
+                    - img [ref=e1153]
+        - separator [ref=e1168]
+        - navigation [ref=e1169]:
+          - link "Terms of Use" [ref=e1170] [cursor=pointer]:
+            - /url: https://edition.cnn.com/terms
+          - link "Privacy Policy" [ref=e1171] [cursor=pointer]:
+            - /url: https://edition.cnn.com/privacy
+          - link "Cookies Verwalten+" [ref=e1172] [cursor=pointer]:
+            - /url: "#"
+          - link "Ad Choices" [ref=e1173] [cursor=pointer]:
+            - /url: https://edition.cnn.com/ad-choices
+          - link "Accessibility & CC" [ref=e1174] [cursor=pointer]:
+            - /url: https://edition.cnn.com/accessibility
+          - link "About" [ref=e1175] [cursor=pointer]:
+            - /url: https://edition.cnn.com/about
+          - link "Newsletters" [ref=e1176] [cursor=pointer]:
+            - /url: https://edition.cnn.com/newsletters
+          - link "Transcripts" [ref=e1177] [cursor=pointer]:
+            - /url: https://edition.cnn.com/transcripts
+        - paragraph [ref=e1178]:
+          - text: © 2026 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.
+          - text: CNN Sans ™ & © 2016 Cable News Network.
+  - dialog "Our use of cookies and other technologies" [ref=e1181]:
+    - generic [ref=e1183]:
+      - generic [ref=e1185]:
+        - heading "Our use of cookies and other technologies" [level=2] [ref=e1186]
+        - generic [ref=e1187]:
+          - text: We, our
+          - link "affiliates" [ref=e1188] [cursor=pointer]:
+            - /url: https://www.cnn.com/affiliates
+          - text: ", and our 59 partners store and access personal data, like browsing data or unique identifiers, on your device. Selecting \"Allow All\" enables tracking technologies to support the purposes shown under we and our partners process data to provide. Selecting \"Essential Cookies Only\" or withdrawing your consent will disable them. If trackers are disabled, some content and ads you see may not be as relevant to you. You can resurface this menu to change your choices or withdraw consent at any time by clicking the \"Manage Cookies+\" link on the bottom of the webpage. Your choices will have effect within our website and applications. For more details, refer to our"
+          - link "Privacy Policy" [ref=e1189] [cursor=pointer]:
+            - /url: https://www.cnn.com/privacy
+          - text: .
+        - generic [ref=e1190]:
+          - heading "We and our partners process data to provide:" [level=3] [ref=e1191]
+          - paragraph [ref=e1193]:
+            - text: Store and/or access information on a device. Use limited data to select advertising. Use profiles to select personalised advertising. Create profiles for personalised advertising. Use profiles to select personalised content. Create profiles to personalise content. Measure advertising performance. Measure content performance. Understand audiences through statistics or combinations of data from different sources. Develop and improve services.
+            - link "List of Partners (vendors)" [ref=e1194] [cursor=pointer]:
+              - /url: "#"
+      - generic [ref=e1196]:
+        - button "Accept All" [ref=e1197] [cursor=pointer]
+        - button "Essential Cookies Only" [ref=e1198] [cursor=pointer]
+        - button "Show Purposes, Opens the preference center dialog" [ref=e1199] [cursor=pointer]: Show Purposes
+  - generic [ref=e1200]: Loading...

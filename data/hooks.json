@@ -1,0 +1,110 @@
+[
+  {
+    "id": "protect-secrets",
+    "name": "Protect Secrets",
+    "category": "security",
+    "eventType": "PreToolUse",
+    "description": "Blocks Claude from reading or printing sensitive files like .env, private keys, and AWS credentials to the terminal.",
+    "repoUrl": "https://github.com/disler/claude-code-hooks-mastery",
+    "author": "disler"
+  },
+  {
+    "id": "block-dangerous-commands",
+    "name": "Block Dangerous Commands",
+    "category": "security",
+    "eventType": "PreToolUse",
+    "description": "Intercepts Bash tool calls and denies execution of destructive patterns like rm -rf at the filesystem root.",
+    "repoUrl": "https://github.com/disler/claude-code-hooks-mastery",
+    "author": "disler"
+  },
+  {
+    "id": "prompt-injection-guard",
+    "name": "Prompt Injection Guard",
+    "category": "security",
+    "eventType": "UserPromptSubmit",
+    "description": "Scans incoming user prompts for known prompt-injection patterns and blocks the turn before Claude processes them.",
+    "repoUrl": "https://github.com/lasso-security/claude-hooks",
+    "author": "lasso-security"
+  },
+  {
+    "id": "auto-format-on-edit",
+    "name": "Auto-format on Edit",
+    "category": "code-quality",
+    "eventType": "PostToolUse",
+    "description": "Runs Prettier or ESLint on any file written or edited by Claude, keeping the codebase consistently formatted.",
+    "repoUrl": "https://github.com/disler/claude-code-hooks-mastery",
+    "author": "disler"
+  },
+  {
+    "id": "run-tests-after-write",
+    "name": "Run Tests After Write",
+    "category": "code-quality",
+    "eventType": "PostToolUse",
+    "description": "Triggers the project test suite automatically every time Claude writes a file, surfacing regressions immediately.",
+    "repoUrl": "https://github.com/karanb192/claude-code-hooks",
+    "author": "karanb192"
+  },
+  {
+    "id": "tdd-enforcer",
+    "name": "TDD Enforcer",
+    "category": "workflow-automation",
+    "eventType": "PostToolUse",
+    "description": "Blocks Claude from writing implementation code unless a corresponding test file already exists, enforcing test-driven development.",
+    "repoUrl": "https://github.com/disler/claude-code-hooks-mastery",
+    "author": "disler"
+  },
+  {
+    "id": "git-checkpoint",
+    "name": "Git Checkpoint",
+    "category": "workflow-automation",
+    "eventType": "PreToolUse",
+    "description": "Creates an automatic git commit before any risky tool call, giving you a rollback point without manual intervention.",
+    "repoUrl": "https://github.com/karanb192/claude-code-hooks",
+    "author": "karanb192"
+  },
+  {
+    "id": "audio-alert-on-stop",
+    "name": "Audio Alert on Stop",
+    "category": "notifications",
+    "eventType": "Stop",
+    "description": "Plays an audio chime when Claude finishes its turn, so you know when to look back at the terminal.",
+    "repoUrl": "https://github.com/disler/claude-code-hooks-mastery",
+    "author": "disler"
+  },
+  {
+    "id": "slack-notification",
+    "name": "Slack Notification",
+    "category": "notifications",
+    "eventType": "Stop",
+    "description": "Posts a Slack message when Claude stops, including a summary of the last action — useful for async or long-running tasks.",
+    "repoUrl": "https://github.com/ChrisWiles/claude-code-showcase",
+    "author": "ChrisWiles"
+  },
+  {
+    "id": "auto-load-context",
+    "name": "Auto-load Context",
+    "category": "context-management",
+    "eventType": "SessionStart",
+    "description": "Automatically injects project-specific context files at session start so Claude always has the latest documentation.",
+    "repoUrl": "https://github.com/disler/claude-code-hooks-mastery",
+    "author": "disler"
+  },
+  {
+    "id": "context-warning",
+    "name": "Context Warning",
+    "category": "context-management",
+    "eventType": "PreCompact",
+    "description": "Fires graduated warnings at 40%, 25%, and 15% context capacity, giving you a heads-up before compaction is forced.",
+    "repoUrl": "https://github.com/disler/claude-code-hooks-mastery",
+    "author": "disler"
+  },
+  {
+    "id": "event-logger",
+    "name": "Event Logger",
+    "category": "context-management",
+    "eventType": "PostToolUse",
+    "description": "Logs every Claude tool call as a structured JSON event, enabling real-time observability across multi-agent sessions.",
+    "repoUrl": "https://github.com/disler/claude-code-hooks-multi-agent-observability",
+    "author": "disler"
+  }
+]

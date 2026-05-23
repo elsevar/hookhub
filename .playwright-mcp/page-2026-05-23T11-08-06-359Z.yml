@@ -1,0 +1,160 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - heading "HookHub" [level=1] [ref=e4]
+      - paragraph [ref=e5]: Discover open-source Claude Code hooks from the community.
+    - generic [ref=e6]:
+      - group "Filter by category" [ref=e7]:
+        - button "All" [pressed] [ref=e8]
+        - button "Security" [ref=e9]
+        - button "Code Quality" [ref=e10]
+        - button "Notifications" [ref=e11]
+        - button "Context Management" [ref=e12]
+        - button "Workflow Automation" [ref=e13]
+      - generic [ref=e14]:
+        - article [ref=e15]:
+          - generic [ref=e16]:
+            - heading "Protect Secrets" [level=2] [ref=e17]
+            - generic [ref=e18]: Security
+          - paragraph [ref=e19]: Blocks Claude from reading or printing sensitive files like .env, private keys, and AWS credentials to the terminal.
+          - generic [ref=e20]:
+            - generic [ref=e21]:
+              - generic [ref=e22]: PreToolUse
+              - generic [ref=e23]: by disler
+            - link "View Protect Secrets on GitHub" [ref=e24] [cursor=pointer]:
+              - /url: https://github.com/disler/claude-code-hooks-mastery
+              - text: View on GitHub
+        - article [ref=e25]:
+          - generic [ref=e26]:
+            - heading "Block Dangerous Commands" [level=2] [ref=e27]
+            - generic [ref=e28]: Security
+          - paragraph [ref=e29]: Intercepts Bash tool calls and denies execution of destructive patterns like rm -rf at the filesystem root.
+          - generic [ref=e30]:
+            - generic [ref=e31]:
+              - generic [ref=e32]: PreToolUse
+              - generic [ref=e33]: by disler
+            - link "View Block Dangerous Commands on GitHub" [ref=e34] [cursor=pointer]:
+              - /url: https://github.com/disler/claude-code-hooks-mastery
+              - text: View on GitHub
+        - article [ref=e35]:
+          - generic [ref=e36]:
+            - heading "Prompt Injection Guard" [level=2] [ref=e37]
+            - generic [ref=e38]: Security
+          - paragraph [ref=e39]: Scans incoming user prompts for known prompt-injection patterns and blocks the turn before Claude processes them.
+          - generic [ref=e40]:
+            - generic [ref=e41]:
+              - generic [ref=e42]: UserPromptSubmit
+              - generic [ref=e43]: by lasso-security
+            - link "View Prompt Injection Guard on GitHub" [ref=e44] [cursor=pointer]:
+              - /url: https://github.com/lasso-security/claude-hooks
+              - text: View on GitHub
+        - article [ref=e45]:
+          - generic [ref=e46]:
+            - heading "Auto-format on Edit" [level=2] [ref=e47]
+            - generic [ref=e48]: Code Quality
+          - paragraph [ref=e49]: Runs Prettier or ESLint on any file written or edited by Claude, keeping the codebase consistently formatted.
+          - generic [ref=e50]:
+            - generic [ref=e51]:
+              - generic [ref=e52]: PostToolUse
+              - generic [ref=e53]: by disler
+            - link "View Auto-format on Edit on GitHub" [ref=e54] [cursor=pointer]:
+              - /url: https://github.com/disler/claude-code-hooks-mastery
+              - text: View on GitHub
+        - article [ref=e55]:
+          - generic [ref=e56]:
+            - heading "Run Tests After Write" [level=2] [ref=e57]
+            - generic [ref=e58]: Code Quality
+          - paragraph [ref=e59]: Triggers the project test suite automatically every time Claude writes a file, surfacing regressions immediately.
+          - generic [ref=e60]:
+            - generic [ref=e61]:
+              - generic [ref=e62]: PostToolUse
+              - generic [ref=e63]: by karanb192
+            - link "View Run Tests After Write on GitHub" [ref=e64] [cursor=pointer]:
+              - /url: https://github.com/karanb192/claude-code-hooks
+              - text: View on GitHub
+        - article [ref=e65]:
+          - generic [ref=e66]:
+            - heading "TDD Enforcer" [level=2] [ref=e67]
+            - generic [ref=e68]: Workflow Automation
+          - paragraph [ref=e69]: Blocks Claude from writing implementation code unless a corresponding test file already exists, enforcing test-driven development.
+          - generic [ref=e70]:
+            - generic [ref=e71]:
+              - generic [ref=e72]: PostToolUse
+              - generic [ref=e73]: by disler
+            - link "View TDD Enforcer on GitHub" [ref=e74] [cursor=pointer]:
+              - /url: https://github.com/disler/claude-code-hooks-mastery
+              - text: View on GitHub
+        - article [ref=e75]:
+          - generic [ref=e76]:
+            - heading "Git Checkpoint" [level=2] [ref=e77]
+            - generic [ref=e78]: Workflow Automation
+          - paragraph [ref=e79]: Creates an automatic git commit before any risky tool call, giving you a rollback point without manual intervention.
+          - generic [ref=e80]:
+            - generic [ref=e81]:
+              - generic [ref=e82]: PreToolUse
+              - generic [ref=e83]: by karanb192
+            - link "View Git Checkpoint on GitHub" [ref=e84] [cursor=pointer]:
+              - /url: https://github.com/karanb192/claude-code-hooks
+              - text: View on GitHub
+        - article [ref=e85]:
+          - generic [ref=e86]:
+            - heading "Audio Alert on Stop" [level=2] [ref=e87]
+            - generic [ref=e88]: Notifications
+          - paragraph [ref=e89]: Plays an audio chime when Claude finishes its turn, so you know when to look back at the terminal.
+          - generic [ref=e90]:
+            - generic [ref=e91]:
+              - generic [ref=e92]: Stop
+              - generic [ref=e93]: by disler
+            - link "View Audio Alert on Stop on GitHub" [ref=e94] [cursor=pointer]:
+              - /url: https://github.com/disler/claude-code-hooks-mastery
+              - text: View on GitHub
+        - article [ref=e95]:
+          - generic [ref=e96]:
+            - heading "Slack Notification" [level=2] [ref=e97]
+            - generic [ref=e98]: Notifications
+          - paragraph [ref=e99]: Posts a Slack message when Claude stops, including a summary of the last action — useful for async or long-running tasks.
+          - generic [ref=e100]:
+            - generic [ref=e101]:
+              - generic [ref=e102]: Stop
+              - generic [ref=e103]: by ChrisWiles
+            - link "View Slack Notification on GitHub" [ref=e104] [cursor=pointer]:
+              - /url: https://github.com/ChrisWiles/claude-code-showcase
+              - text: View on GitHub
+        - article [ref=e105]:
+          - generic [ref=e106]:
+            - heading "Auto-load Context" [level=2] [ref=e107]
+            - generic [ref=e108]: Context Management
+          - paragraph [ref=e109]: Automatically injects project-specific context files at session start so Claude always has the latest documentation.
+          - generic [ref=e110]:
+            - generic [ref=e111]:
+              - generic [ref=e112]: SessionStart
+              - generic [ref=e113]: by disler
+            - link "View Auto-load Context on GitHub" [ref=e114] [cursor=pointer]:
+              - /url: https://github.com/disler/claude-code-hooks-mastery
+              - text: View on GitHub
+        - article [ref=e115]:
+          - generic [ref=e116]:
+            - heading "Context Warning" [level=2] [ref=e117]
+            - generic [ref=e118]: Context Management
+          - paragraph [ref=e119]: Fires graduated warnings at 40%, 25%, and 15% context capacity, giving you a heads-up before compaction is forced.
+          - generic [ref=e120]:
+            - generic [ref=e121]:
+              - generic [ref=e122]: PreCompact
+              - generic [ref=e123]: by disler
+            - link "View Context Warning on GitHub" [ref=e124] [cursor=pointer]:
+              - /url: https://github.com/disler/claude-code-hooks-mastery
+              - text: View on GitHub
+        - article [ref=e125]:
+          - generic [ref=e126]:
+            - heading "Event Logger" [level=2] [ref=e127]
+            - generic [ref=e128]: Context Management
+          - paragraph [ref=e129]: Logs every Claude tool call as a structured JSON event, enabling real-time observability across multi-agent sessions.
+          - generic [ref=e130]:
+            - generic [ref=e131]:
+              - generic [ref=e132]: PostToolUse
+              - generic [ref=e133]: by disler
+            - link "View Event Logger on GitHub" [ref=e134] [cursor=pointer]:
+              - /url: https://github.com/disler/claude-code-hooks-multi-agent-observability
+              - text: View on GitHub
+  - button "Open Next.js Dev Tools" [ref=e140] [cursor=pointer]:
+    - img [ref=e141]
